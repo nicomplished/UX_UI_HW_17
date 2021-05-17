@@ -11,7 +11,7 @@
 
 .resumeButton {
     background-color: #EFBDBD;
-    color: white;
+    color: #643535;
    padding: 7px;
 }
 
@@ -59,12 +59,12 @@
 
 
 .heroText1 {
-    color: white;
+    color: #643535;
     padding-left: 60px;
 }
 
 .heroText2 {
-    color: white;
+    color: #643535;
     line-height: 0;
     padding-left: 150px;
 }
@@ -126,7 +126,7 @@
 }
 
 .projectTitle{
-    color: white;
+    color: #643535;
     width: 500px;
     padding-top: 30px;
     text-align: left;
@@ -173,7 +173,7 @@
 }
 
 .projectTitle2{
-    color: white;
+    color: #643535;
     width: 430px;
     padding: 0px 0px 0px 60px;
     text-align: left;
@@ -217,7 +217,7 @@
 }
 
 .projectTitle3 {
-    color: white;
+    color: #643535;
     width: 700px;
     padding-top: 30px;
     text-align: left;
@@ -289,7 +289,7 @@
 }
 
 .navButton2 {
-    color: white;
+    color: #643535;
     width: 86px;
     margin: 0 3px;
     display: flex;
@@ -321,7 +321,7 @@
     display: flex;
     align-content: center;
     justify-content: center;
-    color: white;
+    color: #643535;
     width: 100%;
     /* border: 3px solid purple; */
 }
